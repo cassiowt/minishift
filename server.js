@@ -2,7 +2,7 @@ var  config = require('./config') ;
 
 var express = require('express');
 var app = express();
-var port = 3021;
+var port = 8080;
 var ser = '127.0.0.1';
 
 var mongoose = require('mongoose');
